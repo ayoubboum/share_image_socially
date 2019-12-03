@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * Some optimisation.
+
+## 0.0.5
+
+* Update documentation.
